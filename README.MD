@@ -6,7 +6,7 @@
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** JavaScript
 
 A repo of all my codewars challenges I've completed. So far I have completed 256 and am in the top 3% on the global ladder.
 I am currently 3 Kyu(ranking)
